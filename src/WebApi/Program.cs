@@ -50,9 +50,9 @@ app.MapGet("/", async context =>
         ""</h1>
 
             <!-- 이미지를 추가합니다. -->
-            <img src=""https://cdn-icons-png.flaticon.com/128/9301/9301483.png"" width=""300"" height=""400""><br>
-            <img src=""https://cdn-icons-png.flaticon.com/128/5798/5798277.png"" width=""300"" height=""400""><br>
-            <img src=""https://cdn-icons-png.flaticon.com/128/10551/10551084.png"" width=""300"" height=""400"">
+            <img src=""https://cdn-icons-png.flaticon.com/128/9301/9301483.png"" width=""250"" height=""350"">
+            <img src=""https://cdn-icons-png.flaticon.com/128/5798/5798277.png"" width=""250"" height=""350"">
+            <img src=""https://cdn-icons-png.flaticon.com/128/10551/10551084.png"" width=""250"" height=""350"">
         </body>
         </html>
     ";
