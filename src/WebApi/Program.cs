@@ -26,14 +26,14 @@ app.MapGet("/", async context =>
                 
                 h1 {
                     color: #333;
-                    font-size: 24px;
+                    font-size: 20px;
                     margin-top: 20px;
                 }
 
                 .kimi {
-                font-size: 30px;
-                font-weight: bold;
-                color: blue; /* 원하는 색상으로 변경하세요 */
+                    font-size: 30px;
+                    font-weight: bold;
+                    color: blue; /* 원하는 색상으로 변경하세요 */
                 }
             </style>
         </head>
@@ -50,9 +50,9 @@ app.MapGet("/", async context =>
         ""</h1>
 
             <!-- 이미지를 추가합니다. -->
-            <img src=""https://images.unsplash.com/photo-1503614472-8c93d56e92ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2011&q=80"" width=""300"" height=""400"">
-            <img src=""https://img.freepik.com/premium-vector/cute-elderly-senior-age-couple-icon_76775-250.jpg"" width=""300"" height=""400"">
-            <img src=""https://postfiles.pstatic.net/MjAyMzAxMDVfMTM2/MDAxNjcyODQ3MDY5MjQ4.iBklDVfKLMVpIoApIYgcxaT-XpFcAW24eeJ-8LH25mcg.wHErblwbwYwsC-pYyA_D8dwz5INxXDeLlqrN9pmBO8Yg.JPEG.sbp111/P20221221_131333441_22793F7E-24EE-4114-A5BD-1B2E9959162C.jpg?type=w966"" width=""300"" height=""400"">
+            <img src=""https://cdn-icons-png.flaticon.com/128/9301/9301483.png"" width=""300"" height=""400""><br>
+            <img src=""https://cdn-icons-png.flaticon.com/128/5798/5798277.png"" width=""300"" height=""400""><br>
+            <img src=""https://cdn-icons-png.flaticon.com/128/10551/10551084.png"" width=""300"" height=""400"">
         </body>
         </html>
     ";
